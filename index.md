@@ -16,3 +16,4 @@
 10. [Kakek dan Pohon Kelapa](ebook/Kakek_dan_Pohon_Kelapa.pdf)
 
 ## Tugas 2: Ringkasan UGC
+11. [Rangkuman UGC Praktikum Aplikasi Teknologi Informasi](ebook/Rangkuman-UGC-Praktikum-Aplikasi-Teknologi-Informasi.pdf)
